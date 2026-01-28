@@ -4,7 +4,7 @@ go 1.23.0
 
 require (
 	github.com/asticode/go-astits v1.14.0
-	github.com/eclipse/paho.mqtt.golang v1.5.1
+	github.com/eclipse/paho.mqtt.golang v1.5.0
 	github.com/expr-lang/expr v1.17.7
 	github.com/google/uuid v1.6.0
 	github.com/gorilla/websocket v1.5.3
