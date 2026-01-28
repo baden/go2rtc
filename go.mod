@@ -25,7 +25,7 @@ require (
 	github.com/stretchr/testify v1.11.1
 	github.com/tadglines/go-pkgs v0.0.0-20210623144937-b983b20f54f9
 	golang.org/x/crypto v0.45.0
-	golang.org/x/net v0.49.0
+	golang.org/x/net v0.48.0
 	gopkg.in/yaml.v3 v3.0.1
 )
 
